@@ -301,6 +301,5 @@ pico_enable_stdio_usb(robot_pico 1)
 4. Изучить документацию Raspberry Pi Pico SDK
 
 ---
-
 **Версия проекта**: 1.0  
 **Последнее обновление**: 2025-09-01
